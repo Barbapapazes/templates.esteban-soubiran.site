@@ -1,0 +1,6 @@
+{
+  "name": "starter-npm-package",
+  "tar": "https://codeload.github.com/Barbapapazes/starter-npm-package/tar.gz/refs/heads/main",
+  "url": "https://github.com/Barbapapazes/starter-npm-package",
+  "defaultDir": "starter-npm-package"
+}
